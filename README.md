@@ -1,5 +1,4 @@
 ## Welcome!
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDrop-G&count_bg=%233DC89C&title_bg=%2312A6ED&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![cats on computers](https://media.giphy.com/media/4a5b4AH9TG7zEgsEEe/giphy-downsized.gif)
 
