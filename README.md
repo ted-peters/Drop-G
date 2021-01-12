@@ -6,8 +6,8 @@ Hi there 👋 ,
 My name is Ted and I am a Full Stack Developer with demonstrated experience across the Software Development Lifecycle focused in Javascript. I am currently searching for work as a Web Developer with opportunity to grow into computer science related postitions and would be available for any amount of hours anywhere in the US. 
 
 ## Heres some links to my other profiles 🌎:
-- Check out my <a href="https://www.tedpeters.herokuapp.com">Online Portfolio</a> 💻
-- Career profile on <a href="https://www.linkedin.com/tedpeters">LinkedIn</a> 💼
+- Check out my [portfolio](http://tedpeters.herokuapp.com/) 💻
+- Career profile on [LinkedIn](https://www.linkedin.com/in/tedpeters/) 💼
 
 
 <!--
