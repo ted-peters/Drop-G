@@ -3,7 +3,7 @@
 ![cats on computers](https://media.giphy.com/media/4a5b4AH9TG7zEgsEEe/giphy-downsized.gif)
 
 Hi there 👋 , 
-My name is Ted and I am a Full Stack Developer with demonstrated experience across the Software Development Lifecycle focused in Javascript. I am currently searching for work as a Web Developer with opportunity to grow into computer science related postitions and would be available for any amount of hours anywhere in the US. 
+My name is Ted and I am a Full Stack Developer with demonstrated experience across the Software Development Lifecycle focused in Javascript. I am currently searching for work as a Web Developer with opportunity to grow into computer science related positions and would be available for any amount of hours anywhere in the US. 
 
 ## Heres some links to my other profiles 🌎:
 - Check out my [portfolio](http://tedpeters.herokuapp.com/) 💻
