@@ -1,7 +1,6 @@
 ## Welcome!
 
 <p align="center">
-  <b>Other Stuff:</b><br>
   <a href="http://tedpeters.herokuapp.com/">Portfolio</a> |
   <a href="https://www.linkedin.com/in/tedpeters/">LinkedIn</a> 
   <br><br>
